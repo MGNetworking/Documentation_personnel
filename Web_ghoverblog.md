@@ -15,10 +15,6 @@
 - Gestion des page d'erreurs du site 
 - Contrôle d'accés [des sites](https://httpd.apache.org/docs/2.4/fr/howto/access.html)
 
-#### Architectur physique 
-- schémas avec panneau de brassage switch avec (routeur modem) / box
-
-
 #### Continuous Integration / Continuous Delivery
 - Test unitaire de tou les micro-services
 
