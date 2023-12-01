@@ -80,7 +80,7 @@ sphinx-quickstart
 ``` 
 Apres avoir créer ce repertoire avec tout les fichiers sphinx, vous pouvez l'exploité et ecrire votre documention dans le fichier **index.rst**
 
-### 7. Fair la compliation de la documentation 
+### 7. Fair la compilation de la documentation 
 - powershell 
 ```ps1
 ./make html
